@@ -19,6 +19,7 @@ Tomato farming plays a crucial role in Kenya’s agricultural sector, contributi
 ## 📂 Project Documentation
 - [Project Proposal](./ProjectProposal.pdf)  
 - [Research Report](./ResearchReport.pdf)
+- [Research Paper Draft 1](./ResearchPaper(draft1).pdf)
 - [Project Slides](https://www.canva.com/design/DAGfkevN5lE/2SVSEMBrHREWcgedsnTR8Q/edit?utm_content=DAGfkevN5lE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🎯 Impact & Benefits
